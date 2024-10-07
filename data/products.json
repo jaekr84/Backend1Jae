@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "title": "NUEVO PRODUCTO4",
+    "description": "Pantalón de mezclilla ajustado.",
+    "code": "PM003",
+    "price": 600,
+    "stock": 20,
+    "category": "Pantalones",
+    "thumbnails": [
+      "url5",
+      "url6"
+    ],
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "NUEVO PRODUCTO2",
+    "description": "Short",
+    "code": "PM02203",
+    "price": 49.99,
+    "stock": 40,
+    "category": "short",
+    "thumbnails": [
+      "url5",
+      "url6"
+    ],
+    "status": true
+  }
+]
