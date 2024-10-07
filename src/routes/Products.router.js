@@ -69,7 +69,7 @@ router.delete('/:pid', async (req, res) => {
     if (deletedProduct) {
       res.json(deletedProduct);
     } else {
-      res.status(404).json({ message: 'Product not found' });
+      res.status(404).json({ message: 'Producto no encontrado' });
     }
   } catch (err) {
     console.log(err);
